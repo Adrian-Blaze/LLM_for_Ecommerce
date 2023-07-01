@@ -7,9 +7,10 @@ from langchain.llms import OpenAI
 from langchain.agents import create_csv_agent
 import streamlit as st
 import tempfile
-from secret_key import openapi_key
+#from secret_key import openapi_key
+#from dotenv import load_dotenv, find_dotenv
 
-os.environ["OPENAI_API_KEY"] = openapi_key
+#os.environ["OPENAI_API_KEY"] = openapi_key
 
 st.title("Excel_made_easy")
 st.subheader("Chat auto data query")
