@@ -42,3 +42,8 @@ Environment Variables: If you prefer to store sensitive information, such as API
 ## **Contributions**
 
 Contributions to Excel_made_easy are welcome! If you have any ideas, suggestions, or bug reports, please create an issue or submit a pull request. Please follow the existing coding style and guidelines.
+
+## **PS**
+
+1.) LLM_PR2.ipynb is a python notebook that tries to implement the same project using a vector database 'Pinecone' for storings embeddings.
+2.) LLM_PR.ipynb is the python notebook for the app implemented on streamlit. It achieves the project goal by making use of an agent.
