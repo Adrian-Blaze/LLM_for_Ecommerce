@@ -1,5 +1,8 @@
 # LLM_for_Ecommerce
-Making E-commerce easier through AI
+Making E-commerce easier through AI (LLMs)
+
+# Problem Statement:
+Managing stock records in large retail chain businesses within the e-commerce sector can be cumbersome and time-consuming especially as the size of such business grows. Retrieving relevant information from stock inventory records, often stored in CSV documents, by old and mundane methods often presents a challenge. The need for a more efficient and user-friendly solution to query and interact with these records is evident. To address this issue, the "Excel_made_easy" application leverages AI through LLMs and the LangChain library to simplify the old process of stocking taking and retreieval - querying stock records by allowing users to upload CSV documents, ask questions in a conversational user convenient format, and receive responses in a streamlined manner. The goal is to enhance the overall efficiency and ease of managing stock records in the e-commerce domain.
 
 # Excel_made_easy
 
